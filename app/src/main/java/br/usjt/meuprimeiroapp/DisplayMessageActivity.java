@@ -7,7 +7,10 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 public class DisplayMessageActivity extends AppCompatActivity {
-
+/**
+ * Created by Vinicius Maciel on 23/3/2018.
+ * RA 816117960
+ */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
