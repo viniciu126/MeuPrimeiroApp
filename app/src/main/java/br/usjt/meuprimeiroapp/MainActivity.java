@@ -9,7 +9,10 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
     public final static String EXTRA_MESSAGE = "br.usjt.meuprimeiroapp.MESSAGE";
-
+/**
+ * Created by Vinicius Maciel on 23/3/2018.
+ * RA 816117960
+ */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
